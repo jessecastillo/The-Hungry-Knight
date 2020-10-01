@@ -30,6 +30,7 @@ Run inside any IDE debugger, then add your name to the innkeeper's book after hi
 ## Author Info
 
 - Email - [Jesse Castillo](mailto:jcastillo3@stu.jsu.edu)
+- Project Link [The Hungry Knight](https://github.com/jessecastillo/The-Hungry-Knight)
 
 
 [Back To The Top](#the-hungry-knight)
