@@ -50,6 +50,7 @@ int main()
 	cout << "Your grand total comes to " << sub_total * 0.05 + sub_total << " silver pieces, a most affordable sum for such a luxurious feast!" << endl;
 	cout << "Thank you for your patronage, Sir " << name << " the " << charac << "! A most beneficial friendship has been born on this day!" << endl;
 	cout << "This particular line was written in VSCode and pushed to GitHub via Git! Groovy" << endl;
+	cout << "Another test line is being considered! Let's see if the results end up favorable!" << endl;
 
 
 }
